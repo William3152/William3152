@@ -1,49 +1,32 @@
-### Hi there, I'm William Wijaya 👋
+# Hello There, I'm William Wijaya
 
-# Halo, Saya [Nama Anda]
+Welcome to my GitHub profile! I'm a Game Programmer with a primary interest in game in general. I enjoy collaborating and sharing knowledge with the community.
 
-Selamat datang di profil GitHub saya! Saya seorang [jabatan atau peran Anda] dengan minat utama dalam [bidang atau topik tertentu]. Saya suka berkolaborasi dan berkontribusi dalam proyek-proyek open source, serta berbagi pengetahuan dengan komunitas.
+## About Me
 
-## Tentang Saya
+- Name: William Wijaya
+- Location: 
+- Occupation: [Your Occupation]
+- Main Interests: [Your Main Field or Topic]
 
-- Nama: [Nama Anda]
-- Lokasi: [Lokasi Anda]
-- Pekerjaan: [Pekerjaan Anda]
-- Minat Utama: [Bidang atau topik utama Anda]
+## Current Projects
 
-## Proyek Terkini
+I'm currently working on some projects that you might find interesting:
 
-Saat ini, saya sedang mengerjakan beberapa proyek yang mungkin Anda temukan menarik:
+1. **[Project Name 1](Project URL 1)** - Brief description of project 1.
+2. **[Project Name 2](Project URL 2)** - Brief description of project 2.
+3. **[Project Name 3](Project URL 3)** - Brief description of project 3.
 
-1. **[Nama Proyek 1](URL Proyek 1)** - Deskripsi singkat proyek 1.
-2. **[Nama Proyek 2](URL Proyek 2)** - Deskripsi singkat proyek 2.
-3. **[Nama Proyek 3](URL Proyek 3)** - Deskripsi singkat proyek 3.
+## GitHub Stats
 
-## Statistik GitHub
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/YourUsername)
 
-[![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=UsernameAnda&show_icons=true&theme=radical)](https://github.com/UsernameAnda)
+## How to Reach Me
 
-## Cara Menghubungi Saya
+You can reach out to me through the following:
 
-Anda bisa menghubungi saya melalui berikut:
+- Email: [Your Email Address]
+- LinkedIn: [Your LinkedIn Profile]
+- Twitter: [Your Twitter Handle]
 
-- Email: [Alamat Email Anda]
-- LinkedIn: [Profil LinkedIn Anda]
-- Twitter: [Akun Twitter Anda]
-
-Jika Anda tertarik untuk berkolaborasi atau memiliki pertanyaan, jangan ragu untuk menghubungi saya. Terima kasih telah mengunjungi profil saya!
-
-<!--
-**William3152/William3152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're interested in collaborating or have any questions, feel free to get in touch. Thanks for visiting my profile!
