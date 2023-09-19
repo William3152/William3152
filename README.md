@@ -1,4 +1,4 @@
-# Hello There, I'm William Wijaya
+# Hello There 👋, I'm William Wijaya
 
 Welcome to my GitHub profile! I'm a Game Programmer with a primary interest in game in general. I enjoy collaborating and sharing knowledge with the community.
 
@@ -26,6 +26,8 @@ I'm currently working on some projects that you might find interesting:
 You can reach out to me through the following:
 
 - Email: williamwijaya010803@gmail.com
+- <a href="https://www.linkedin.com/in/william-wijaya-387a10291 ">LinkedIn</a>
+
 - LinkedIn: www.linkedin.com/in/william-wijaya-387a10291 
 
 If you're interested in collaborating or have any questions, feel free to get in touch. Thanks for visiting my profile!
