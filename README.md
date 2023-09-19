@@ -24,10 +24,7 @@ I'm currently working on some projects that you might find interesting:
 ## How to Reach Me
 
 You can reach out to me through the following:
-
-- Email: williamwijaya010803@gmail.com
-- <a href="https://www.linkedin.com/in/william-wijaya-387a10291 ">LinkedIn</a>
-
-- LinkedIn: www.linkedin.com/in/william-wijaya-387a10291 
+📫 <a href="williamwijaya010803@gmail.com">Email</a>
+💼 <a href="https://www.linkedin.com/in/william-wijaya-387a10291">LinkedIn</a>
 
 If you're interested in collaborating or have any questions, feel free to get in touch. Thanks for visiting my profile!
