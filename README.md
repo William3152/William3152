@@ -17,9 +17,6 @@ I'm currently working on some projects that you might find interesting:
 2. **[Project Name 2](Project URL 2)** - Brief description of project 2.
 3. **[Project Name 3](Project URL 3)** - Brief description of project 3.
 
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/YourUsername)
 
 ## How to Reach Me
 
