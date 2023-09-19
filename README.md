@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a Game Programmer with a primary interest in g
 
 I'm currently working on some projects that you might find interesting:
 
-1. //**[Project Name 1](Project URL 1)** - Brief description of project 1.//
+1. **[Project Name 1](Project URL 1)** - Brief description of project 1.
 2. **[Project Name 2](Project URL 2)** - Brief description of project 2.
 3. **[Project Name 3](Project URL 3)** - Brief description of project 3.
 
@@ -25,8 +25,7 @@ I'm currently working on some projects that you might find interesting:
 
 You can reach out to me through the following:
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Handle]
+- Email: williamwijaya010803@gmail.com
+- LinkedIn: www.linkedin.com/in/william-wijaya-387a10291 
 
 If you're interested in collaborating or have any questions, feel free to get in touch. Thanks for visiting my profile!
