@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm a Game Programmer with a primary interest in g
 
 I'm currently working on some projects that you might find interesting:
 
-1. **[2D Pong](https://github.com/William3152/2D-Pong)** - A classic 2D Pong game with a modern twist.
-2. **[Project Name 2](Project URL 2)** - Brief description of project 2.
+1. **[Glowing 2D Pong](https://github.com/William3152/2D-Pong)** - A classic 2D Pong game with a modern twist.
+2. **[Hopeless](https://github.com/William3152/Hopeless)** - A platformer game with a dark theme.
 3. **[Project Name 3](Project URL 3)** - Brief description of project 3.
 
 
