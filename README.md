@@ -1,6 +1,9 @@
 # Hello There 👋, I'm William Wijaya
 
+![github-header-image](https://github.com/William3152/William3152/assets/116702856/70644b12-b96a-4442-91fc-6b98bbdf08a3)
+
 Welcome to my GitHub profile! I'm a Game Programmer with a primary interest in game in general. I enjoy collaborating and sharing knowledge with the community.
+
 
 ## About Me
 
