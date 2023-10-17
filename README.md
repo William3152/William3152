@@ -17,8 +17,13 @@ Welcome to my GitHub profile! I'm a Game Programmer with a primary interest in g
 I'm currently working on some projects that you might find interesting:
 
 1. **[Glowing 2D Pong](https://github.com/William3152/2D-Pong)** - A classic 2D Pong game with a modern twist.
+
+![pong gif](https://github.com/William3152/William3152/assets/116702856/6edd7e27-cd85-4061-af2e-ebad54eb0efc)
+
 2. **[Hopeless](https://github.com/William3152/Hopeless)** - A platformer game with a dark theme.
-3. **[Project Name 3](Project URL 3)** - Brief description of project 3.
+
+   
+3. **[Clash of The Jungle](Project URL 3)** - Brief description of project 3.
 
 
 ## How to Reach Me
