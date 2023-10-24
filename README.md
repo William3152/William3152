@@ -12,6 +12,10 @@ Welcome to my GitHub profile! I'm a Game Programmer with a primary interest in g
 - Occupation: College Student
 - Main Interests: Video Game
 
+## Languages and Tools
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+
 ## Current Projects
 
 I'm currently working on some projects that you might find interesting:
@@ -30,6 +34,16 @@ I'm currently working on some projects that you might find interesting:
 
 You can reach out to me through the following:
 - <a href="williamwijaya010803@gmail.com ">Email</a>
-- <a href="https://www.linkedin.com/in/william-wijaya-387a10291 ">LinkedIn</a>
+<a href="https://linkedin.com/in/william wijaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william wijaya" height="30" width="40" /></a>
+</p>
 
 If you're interested in collaborating or have any questions, feel free to get in touch. Thanks for visiting my profile!
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=william3152" alt="william3152" /></a> </p>
+
+
+
+
+
+
+
