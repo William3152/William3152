@@ -33,7 +33,7 @@ I'm currently working on some projects that you might find interesting:
 ## How to Reach Me
 
 You can reach out to me through the following:
-- <a href="williamwijaya010803@gmail.com ">Email</a>
+<a href="williamwijaya010803@gmail.com" target="blank"><img align="center" src="https://github.com/William3152/William3152/assets/116702856/fb7589fe-d26c-44b7-ae77-670a59bb206a" alt="william wijaya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/william wijaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william wijaya" height="30" width="40" /></a>
 </p>
 
