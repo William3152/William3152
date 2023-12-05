@@ -22,15 +22,17 @@ Here are some of the projects that I'm currently working on or completed that yo
 
 1. **[Glowing 2D Pong](https://github.com/William3152/2D-Pong)** - A classic 2D Pong game with a modern twist.
 
-<img src="https://github.com/William3152/William3152/assets/116702856/6edd7e27-cd85-4061-af2e-ebad54eb0efc" width="500" height="300" alt="pong gif">
- 
+<div style="display:flex;">
+    <img src="https://github.com/William3152/William3152/assets/116702856/cdd86752-c447-47ad-846b-2bf96d67ab87" width="400" height="300" alt="2D Pong Image 1">
+    <img src="https://github.com/William3152/William3152/assets/116702856/6edd7e27-cd85-4061-af2e-ebad54eb0efc" width="400" height="300" alt="Image 2">
+</div>
 
 2. **[Hopeless](https://github.com/William3152/Hopeless)** - A platformer game with a dark theme.
 
    
 3. **[Clash of The Jungle](https://github.com/William3152/Clash-of-The-Jungle)** - A tower defense game where the animal kingdom will defend their home and drove off the invader from their land.
 
-<img src="https://github.com/William3152/William3152/assets/116702856/f5a6ebb5-c334-42b2-8429-baa840eb46c6" width="500" height="300" alt="ClashofTheJungle">
+<img src="https://github.com/William3152/William3152/assets/116702856/f5a6ebb5-c334-42b2-8429-baa840eb46c6" width="400" height="300" alt="ClashofTheJungle">
 
 
 ## How to Reach Me
