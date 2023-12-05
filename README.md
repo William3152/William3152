@@ -22,13 +22,14 @@ I'm currently working on some projects that you might find interesting:
 
 1. **[Glowing 2D Pong](https://github.com/William3152/2D-Pong)** - A classic 2D Pong game with a modern twist.
 
-![pong gif](https://github.com/William3152/William3152/assets/116702856/6edd7e27-cd85-4061-af2e-ebad54eb0efc)
+![pong gif](https://github.com/William3152/William3152/assets/116702856/6edd7e27-cd85-4061-af2e-ebad54eb0efc) 
 
 2. **[Hopeless](https://github.com/William3152/Hopeless)** - A platformer game with a dark theme.
 
    
-3. **[Clash of The Jungle](Project URL 3)** - Brief description of project 3.
+3. **[Clash of The Jungle](https://github.com/William3152/Clash-of-The-Jungle)** - A tower defense game where the animal kingdom will defend their home and drove off the invader from their land.
 
+![ClashofTheJungle](https://github.com/William3152/William3152/assets/116702856/f5a6ebb5-c334-42b2-8429-baa840eb46c6)
 
 ## How to Reach Me
 
