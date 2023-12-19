@@ -28,11 +28,8 @@ Here are some of the projects that I'm currently working on or completed that yo
 </div>
 
 2. **[Hopeless](https://github.com/William3152/Hopeless)** - A platformer game with a dark theme.
-   
-<div style="display:flex;">
-    <img src="https://github.com/William3152/William3152/assets/116702856/fe8b5234-6b06-4c49-ba79-4b25dca38067" width="480" height="300" alt="hopeless">
-    <img src="https://github.com/William3152/William3152/assets/116702856/88d2a3a3-18ea-4a36-9dd5-7d004a76bcbc" width="480" height="300" alt="hopeless1">
-</div>
+
+    <img src="https://github.com/William3152/William3152/assets/116702856/fe8b5234-6b06-4c49-ba79-4b25dca38067" width="480" height="300" alt="hopeless"> <img src="https://github.com/William3152/William3152/assets/116702856/88d2a3a3-18ea-4a36-9dd5-7d004a76bcbc" width="480" height="300" alt="hopeless1">
 
 3. **[Clash of The Jungle](https://github.com/William3152/Clash-of-The-Jungle)** - A tower defense game where the animal kingdom will defend their home and drove off the invader from their land.
 <img src="https://github.com/William3152/William3152/assets/116702856/f5a6ebb5-c334-42b2-8429-baa840eb46c6" width="400" height="300" alt="ClashofTheJungle">
